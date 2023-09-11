@@ -1,0 +1,216 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3826246 */
+  src: url('iconfont.woff2?t=1693896579510') format('woff2'),
+       url('iconfont.woff?t=1693896579510') format('woff'),
+       url('iconfont.ttf?t=1693896579510') format('truetype');
+}
+
+
+[class*='my-icon-']  {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.my-icon-add:before {
+  content: "\e664";
+}
+
+.my-icon-ashbin:before {
+  content: "\e665";
+}
+
+.my-icon-arrow-right:before {
+  content: "\e666";
+}
+
+.my-icon-bottom:before {
+  content: "\e667";
+}
+
+.my-icon-close:before {
+  content: "\e668";
+}
+
+.my-icon-direction-down:before {
+  content: "\e66b";
+}
+
+.my-icon-direction-up:before {
+  content: "\e66c";
+}
+
+.my-icon-home:before {
+  content: "\e674";
+}
+
+.my-icon-layers:before {
+  content: "\e675";
+}
+
+.my-icon-Close:before {
+  content: "\e609";
+}
+
+.my-icon-CircleCloseFilled:before {
+  content: "\e60a";
+}
+
+.my-icon-CircleClose:before {
+  content: "\e60b";
+}
+
+.my-icon-CutFilled:before {
+  content: "\e60c";
+}
+
+.my-icon-Add:before {
+  content: "\e60d";
+}
+
+.my-icon-AddFilled:before {
+  content: "\e60e";
+}
+
+.my-icon-Calendar:before {
+  content: "\e60f";
+}
+
+.my-icon-HomeFilled:before {
+  content: "\e610";
+}
+
+.my-icon-Delete:before {
+  content: "\e611";
+}
+
+.my-icon-Filter:before {
+  content: "\e612";
+}
+
+.my-icon-Email:before {
+  content: "\e613";
+}
+
+.my-icon-EditPen:before {
+  content: "\e614";
+}
+
+.my-icon-Issue:before {
+  content: "\e615";
+}
+
+.my-icon-Details:before {
+  content: "\e616";
+}
+
+.my-icon-Cut:before {
+  content: "\e617";
+}
+
+.my-icon-Home:before {
+  content: "\e618";
+}
+
+.my-icon-DoneList:before {
+  content: "\e619";
+}
+
+.my-icon-Hide:before {
+  content: "\e61a";
+}
+
+.my-icon-Message:before {
+  content: "\e61b";
+}
+
+.my-icon-MessageFilled:before {
+  content: "\e61c";
+}
+
+.my-icon-Location:before {
+  content: "\e61d";
+}
+
+.my-icon-LocationFilled:before {
+  content: "\e61e";
+}
+
+.my-icon-NoticeFilled:before {
+  content: "\e61f";
+}
+
+.my-icon-Notice:before {
+  content: "\e620";
+}
+
+.my-icon-Revise:before {
+  content: "\e621";
+}
+
+.my-icon-More:before {
+  content: "\e622";
+}
+
+.my-icon-StarFilled:before {
+  content: "\e623";
+}
+
+.my-icon-Searchsvg:before {
+  content: "\e624";
+}
+
+.my-icon-Password:before {
+  content: "\e625";
+}
+
+.my-icon-Phone:before {
+  content: "\e626";
+}
+
+.my-icon-Share:before {
+  content: "\e627";
+}
+
+.my-icon-Refresh:before {
+  content: "\e628";
+}
+
+.my-icon-Time:before {
+  content: "\e629";
+}
+
+.my-icon-User:before {
+  content: "\e62a";
+}
+
+.my-icon-Star:before {
+  content: "\e62b";
+}
+
+.my-icon-View:before {
+  content: "\e62c";
+}
+
+.my-icon-Security:before {
+  content: "\e62d";
+}
+
+.my-icon-SettingFilled:before {
+  content: "\e62e";
+}
+
+.my-icon-ToDoList:before {
+  content: "\e62f";
+}
+
+.my-icon-Setting:before {
+  content: "\e630";
+}
+
+.my-icon-AddressBook:before {
+  content: "\e631";
+}
+
